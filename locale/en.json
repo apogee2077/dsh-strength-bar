@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Strength Slider",
+    "description": "A collapsible strength pill above the composer; open it for a ChatGPT-style slider with a round knob and half-circle track caps that switches model, reasoning effort and agent preset, with stepped dragging, per-level color and a star effect at the top level."
+  }
+}

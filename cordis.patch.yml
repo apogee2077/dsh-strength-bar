@@ -1,0 +1,3 @@
+- insert:
+    - id: strength-bar
+      name: '@local/dsh-strength-bar'
